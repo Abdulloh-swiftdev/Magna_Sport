@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "Gloves",
+        "name": "Gloves Dark Red",
+        "image": "dark red",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They fuature premium synthetic leather along with superior construction increases durability. Get the most out of your next workout whether you're sparring or workin to increase your strength and cardio endurance.",
+        "backgroundColor": "dark red",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    },
+    {
+        "id": 2,
+        "category": "Gloves",
+        "name": "Gloves Red",
+        "image": "red",
+        "price": 49,
+        "description": "Everlast® Pro Style Elite Gloves are ideal for sparring, heavy bag & mitt workouts. They feature premium synthetic leather along with superior construction increases durability. Get the most out of your nest workout whether you're sparring or working to increase your strength and cardio endurance.",
+        "backgroundColor": "red",
+        "sizes": ["10oz", "12oz", "14oz", "16oz", "18oz"]
+    }
+]
